@@ -84,7 +84,7 @@ Portfolio / educational use.
 
 Team project (Tuwaiq Flutter Bootcamp):
 
-| GitHub | Role |
+| GitHub | Name |
 |---|---|
 | [Saad0fi](https://github.com/Saad0fi) | Saad Alharbi |
 | [talai-jpg](https://github.com/talai-jpg) | Talal Alharthi |
