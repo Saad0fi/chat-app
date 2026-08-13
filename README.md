@@ -82,8 +82,12 @@ Portfolio / educational use.
 
 ## Authors
 
-- **Saad Alharbi** — [Saad0fi](https://github.com/Saad0fi)
-- **Talal**
-- **Omar**
+Team project (Tuwaiq Flutter Bootcamp):
 
-LinkedIn: https://www.linkedin.com/in/saad-alharbi-659a94267/
+| GitHub | Role |
+|---|---|
+| [Saad0fi](https://github.com/Saad0fi) | Saad Alharbi |
+| [talai-jpg](https://github.com/talai-jpg) | Talal Alharthi |
+| [oom22](https://github.com/oom22) | Omar |
+
+Portfolio contact: **Saad Alharbi** — [LinkedIn](https://www.linkedin.com/in/saad-alharbi-659a94267/) · [GitHub](https://github.com/Saad0fi)
